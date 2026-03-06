@@ -103,9 +103,9 @@ PDEO also excels in surface reconstruction tasks, achieving lower Chamfer Distan
 If you find our work useful, please consider citing:
 
 ```bibtex
-@inproceedings{anonymous2026pdeo,
+@inproceedings{mo2026pdeo,
   title={Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction},
-  author={Anonymous},
+  author={Mo, Yifan and Cai, Youcheng and Liu, Ligang},
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2026}
 }
