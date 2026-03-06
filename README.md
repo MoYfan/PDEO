@@ -3,33 +3,18 @@
   <h3>Toward High-Quality Rendering and Reconstruction</h3>
   
   <p>
-    <b>Anonymous CVPR 2026 Submission</b><br>
-    <div align="center">
-      <h1>PDEO: Plug-and-Play PDE Optimization for 3D Gaussian Splatting</h1>
-      <h3>Toward High-Quality Rendering and Reconstruction</h3>
+    <b>Yifan Mo</b><sup>1</sup>,
+    <b>Youcheng Cai</b><sup>1</sup>,
+    <b>Ligang Liu</b><sup>1</sup>
+  </p>
   
-      <p>
-        <b>Yifan Mo</b><sup>1</sup>,
-        <b>Youcheng Cai</b><sup>1</sup>,
-        <b>Ligang Liu</b><sup>1</sup>
-      </p>
-  
-      <p>
-        <sup>1</sup>University of Science and Technology of China (USTC), Hefei, CN<br>
-        {moyf, caiyoucheng, lgliu}@ustc.edu.cn
-      </p>
+  <p>
+    <sup>1</sup>University of Science and Technology of China (USTC), Hefei, CN<br>
+    {moyf, caiyoucheng, lgliu}@ustc.edu.cn
+  </p>
 
-      <p>
-        <b>CVPR 2026</b>
-      </p>
-  
   <p>
-    <a href="#abstract"><strong>Abstract</strong></a> |
-    <a href="#method"><strong>Method</strong></a> |
-    <a href="#results"><strong>Results</strong></a> |
-    <a href="#citation"><strong>Citation</strong></a>
-  </p>
-</div>
+    <b>CVPR 2026</b>
   </p>
   
   <p>
@@ -39,6 +24,7 @@
     <a href="#citation"><strong>Citation</strong></a>
   </p>
 </div>
+
 
 ---
 
