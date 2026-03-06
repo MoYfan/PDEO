@@ -94,10 +94,7 @@ PDEO also excels in surface reconstruction tasks, achieving lower Chamfer Distan
 
 ### Paper
 
-*   **Paper**: [Download PDF]([PDEO.pdf](https://arxiv.org/abs/2509.13938)) (CVPR 2026 Submission #38873)
-*   **Video**: [Supplementary Video](#) (Coming Soon)
-
-*(Note: Please upload your actual paper PDF to the repository root and name it `PDEO.pdf` so the link above works.)*
+*   **Paper**: [ArXiv (2509.13938)](https://arxiv.org/abs/2509.13938) | [PDF Download](https://arxiv.org/pdf/2509.13938.pdf)
 
 ---
 
